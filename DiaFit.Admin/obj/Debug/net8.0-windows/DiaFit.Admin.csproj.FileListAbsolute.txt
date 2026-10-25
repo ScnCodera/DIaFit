@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\bin\Debug\net8.0-windows\DiaFit.Admin.exe
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\bin\Debug\net8.0-windows\DiaFit.Admin.deps.json
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\bin\Debug\net8.0-windows\DiaFit.Admin.runtimeconfig.json
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\bin\Debug\net8.0-windows\DiaFit.Admin.dll
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\bin\Debug\net8.0-windows\DiaFit.Admin.pdb
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\obj\Debug\net8.0-windows\DiaFit.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\obj\Debug\net8.0-windows\DiaFit.Admin.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\obj\Debug\net8.0-windows\DiaFit.Admin.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\obj\Debug\net8.0-windows\DiaFit.Admin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\obj\Debug\net8.0-windows\DiaFit.Admin.dll
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\obj\Debug\net8.0-windows\refint\DiaFit.Admin.dll
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\obj\Debug\net8.0-windows\DiaFit.Admin.pdb
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\obj\Debug\net8.0-windows\DiaFit.Admin.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DIA-FIT--main\DiaFit\DiaFit.Admin\obj\Debug\net8.0-windows\ref\DiaFit.Admin.dll
